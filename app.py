@@ -11,7 +11,7 @@ def create_app():
     CORS(app, resources={
     r"/*": {
         "origins": [
-            "https://multi-apps-frontend.vercel.app/",
+            "https://multi-apps-frontend.vercel.app",
             "http://localhost:5173"
         ]
     }
