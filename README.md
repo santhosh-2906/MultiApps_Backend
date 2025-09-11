@@ -13,6 +13,9 @@ It provides **REST APIs** for authentication and CRUD operations.
 - **Integration**: Clean endpoints consumed by React frontend
 
 ---
+## 🌐 Live Demo
+
+[Deployed on Vercel](https://multi-apps-frontend.vercel.app/)
 
 ## 🛠️ Tech Stack
 - **Python Flask**
